@@ -1,4 +1,4 @@
-![Uploading ekran.gif…]()
+![ekran.gif]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>HTML CSS Full Responsive Tur Sitesi</h1>
+        <h1>HTML CSS Full Responsive Restoran Sitesi</h1>
         <p>Farklı ekran boyutlarına uyum sağlayabilen web tasarım</p>
     </header>
     <div class="container">
