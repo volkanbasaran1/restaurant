@@ -1,4 +1,4 @@
-![ekran.gif]()
+![ekran.gif...]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
