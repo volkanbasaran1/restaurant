@@ -1,4 +1,4 @@
-![ekran.gif...]()
+![ekran](https://github.com/volkanbasaran1/restaurant/assets/76842256/b90b11f2-90ab-43aa-91d5-68a3743bcca6)
 <!DOCTYPE html>
 <html lang="en">
 <head>
