@@ -13,7 +13,7 @@
     <div class="container">
         <h2>Proje Hakkında</h2>
         <p>Öneri bir restoran sitesidir.</p>
-        <h2>Kullanılan Teknolojiler</h3>
+        <h2>Kullanılan Teknolojiler</h2>
         <ul>
             <li>HTML</li>
              <li>CSS</li>
